@@ -1,5 +1,7 @@
 # Recipe Organizer — Python + SQLite
 
+[![CI](https://github.com/rgandhi23/recipe-organizer-python/actions/workflows/ci.yml/badge.svg)](https://github.com/rgandhi23/recipe-organizer-python/actions/workflows/ci.yml)
+
 A command-line product for saving, organizing, finding, updating, and exporting recipes. The application stores data in SQLite, so recipes remain available after the program closes.
 
 This project began as a Jupyter notebook and was reorganized into a small Python package to make each responsibility clear, testable, and easy to explain.
