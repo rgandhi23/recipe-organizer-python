@@ -32,6 +32,7 @@ python3 -m unittest discover -v
 ```
 
 The tests use temporary databases, so they do not change your real recipes.
+GitHub Actions runs the same suite on Python 3.11 and 3.13 after every push and pull request.
 
 ## Design
 
